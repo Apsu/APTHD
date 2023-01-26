@@ -33,5 +33,5 @@ The heatmap highlights several important aspects of this layout:
 
 - Pinky corners are low usage
 - Ring fingers are moderate usage
-- Reaching into the inner index keys is minimal, since 4 letters there are in the bottom 5 by usage (ZQJK)
+- Reaching into the inner index keys is minimal, since the 4 reachiest letters are in the bottom 5 by usage (ZQJK)
 - The highest use letters (ET) are on the middle finger home spot
